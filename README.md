@@ -3,7 +3,7 @@
 Computer vision and machine learning - detection, tracking and segmentation in PyTorch -
 plus data work in SQL, PostgreSQL and pandas.
 Final-year Mathematics (Data Analytics) student at Gdańsk University of Technology,
-looking for an ML / CV or data internship or junior role — Tricity (on-site or hybrid) or fully remote.
+looking for an ML / CV or data internship or junior role - Tricity (on-site or hybrid) or fully remote.
 
 **Currently:** choosing a computer vision topic for my bachelor's thesis.
 
