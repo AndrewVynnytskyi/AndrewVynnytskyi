@@ -1,8 +1,9 @@
 # Andrii Vynnytskyi
 
-Computer vision and machine learning - detection, tracking and segmentation in PyTorch.
+Computer vision and machine learning - detection, tracking and segmentation in PyTorch —
+plus data work in SQL, PostgreSQL and pandas.
 Final-year Mathematics (Data Analytics) student at Gdańsk University of Technology,
-looking for an ML / CV internship or junior role - Tricity (on-site or hybrid) or fully remote.
+looking for an ML / CV or data internship or junior role — Tricity (on-site or hybrid) or fully remote.
 
 **Currently:** choosing a computer vision topic for my bachelor's thesis.
 
@@ -17,7 +18,7 @@ looking for an ML / CV internship or junior role - Tricity (on-site or hybrid) o
   fine-tuning (0.766 vs 0.764 val mIoU, inside run-to-run noise) at about half the training time.
 - **[Mot-VisDrone](https://github.com/AndrewVynnytskyi/Mot-VisDrone)** - 22 detector × tracker ×
   DINOv2-embedding runs on VisDrone2019-MOT, scored with TrackEval; best HOTA 41.88 with
-  YOLOv8l + ByteTrack. Contrastive appearance embeddings did not beat motion-only tracking —
+  YOLOv8l + ByteTrack. Contrastive appearance embeddings did not beat motion-only tracking -
   the README explains why.
 - **[Nyc-taxi-trip](https://github.com/AndrewVynnytskyi/Nyc-taxi-trip)** - ETL of 2M NYC taxi
   trips into PostgreSQL and a PyTorch fare model: RMSE $3.06 vs $10.42 for a SQL baseline.
@@ -27,7 +28,7 @@ looking for an ML / CV internship or junior role - Tricity (on-site or hybrid) o
 
 **ML / DL:** PyTorch, scikit-learn, Ultralytics YOLO, timm, DINOv2, Weights & Biases
 **Computer vision:** OpenCV, object detection, multi-object tracking, semantic segmentation, Grad-CAM
-**Data:** SQL, PostgreSQL, pandas, NumPy, Apache Superset
+**Data:** SQL, PostgreSQL, pandas, NumPy, ETL, Apache Superset dashboards
 **Tools:** Python, Git, Linux, Docker, Hydra / OmegaConf, pytest
 
 ## Contact
